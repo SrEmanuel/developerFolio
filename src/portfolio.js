@@ -122,14 +122,6 @@ const educationInfo = {
         "3nd place (state ranking) at the XXIII Brazilian Informatics Olympiad"
       ]
     },
-    {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2023 - April 2027",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
   ]
 };
 
@@ -193,7 +185,7 @@ To know how to get github key look at readme.md */
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
   display: false // Set false to hide this section, defaults to true
-};
+};  
 
 // Some big projects you have worked on
 
